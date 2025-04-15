@@ -23,5 +23,6 @@ class TestCalculoNumeros(unittest.TestCase):
         with self.assertRaises(NumeroDebeSerPositivo):
             ingrese_numero()
 
+
 if __name__ == '__main__':
     unittest.main() 
