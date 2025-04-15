@@ -1,8 +1,8 @@
-from exceptions import ingrese_numero
+from exceptions import ingrese_numero, NumeroDebeSerPositivo
 
 def main():
     return 100
 
 
-if __name__ == "__main__":
-    main() 
+if name == "main":
+    main()
